@@ -1,0 +1,32 @@
+---
+prosto_blank:
+  name: Ната
+  bio: "Физик по образованию, исследователь по призванию"
+  avatar: "/assets/images/photo-nata.jpg"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/prosto_blank/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/bliankinshtein"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/bliankinshtein/"
+true_pk:
+  name: Шилин
+  bio: "Программист дата-люб"
+  avatar: "/assets/images/photo-shilin.jpg"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/s.shilin/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/shinshilin"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "http://github.com/sergeyshilin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sergeyshilin/"
