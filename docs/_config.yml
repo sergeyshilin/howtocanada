@@ -21,11 +21,11 @@
 title: Сировый Кленоп - блог о жизни в Канаде
 masthead_title: "Сировый Кленоп"
 subtitle: Приключения русских в Канаде. Как начать жить с чистого листа.
-email: we@howtocanada.ru
+email: canada@shilin.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Приключения русских в Канаде. Как начать жить с чистого листа.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://howtocanada.ru"
+url: "https://howtoca.com"
 locale: "ru-RU"
 github_username: sergeyshilin
 repository: "sergeyshilin/howtocanada"
